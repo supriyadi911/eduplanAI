@@ -1,0 +1,2 @@
+# eduplanAI
+aplikasi administrasi guru
